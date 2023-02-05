@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kalagopz/techlog/static/css/main.073c9b0a.css",
+    "main.js": "/kalagopz/techlog/static/js/main.6cd3e201.js",
+    "static/js/787.ff7cbbbe.chunk.js": "/kalagopz/techlog/static/js/787.ff7cbbbe.chunk.js",
+    "static/media/logo.svg": "/kalagopz/techlog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kalagopz/techlog/index.html",
+    "main.073c9b0a.css.map": "/kalagopz/techlog/static/css/main.073c9b0a.css.map",
+    "main.6cd3e201.js.map": "/kalagopz/techlog/static/js/main.6cd3e201.js.map",
+    "787.ff7cbbbe.chunk.js.map": "/kalagopz/techlog/static/js/787.ff7cbbbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6cd3e201.js"
+  ]
+}
